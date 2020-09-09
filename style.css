@@ -19,8 +19,8 @@ html{
 }
 
 .max{
-    transition: transform 2s ease ;
+    transition: transform .8s ease ;
 }
 .max:hover{
-    transform: scale(1.8);
+    transform: scale(1.6);
 }
