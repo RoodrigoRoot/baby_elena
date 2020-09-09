@@ -1,0 +1,26 @@
+html{
+    
+    background-image: url("12866-NOWJ6E.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#elena{
+    display: block;
+    width: 80%;
+    height: 80vh;   
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.mont{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.max{
+    transition: transform 2s ease ;
+}
+.max:hover{
+    transform: scale(1.8);
+}
